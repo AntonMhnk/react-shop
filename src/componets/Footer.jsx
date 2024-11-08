@@ -3,7 +3,7 @@ function Footer() {
     <div className="footer-copyright">
       <div className="container">
         © 2019-{new Date().getFullYear()} Copyright Text
-        <a className="grey-text text-lighten-4 right" href="https://github.com/AntonMhnk/react-movie/tree/main" target="_blank" rel="noreferrer">Repo</a>
+        <a className="grey-text text-lighten-4 right" href="https://github.com/AntonMhnk/react-shop" target="_blank" rel="noreferrer">Repo</a>
       </div>
     </div>
   </footer>
